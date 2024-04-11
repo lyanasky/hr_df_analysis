@@ -1,1 +1,7 @@
-# hr_df_analysis
+This is the Google capstone project in Google advanced data analytics. it contains a csv dataset to be used in building predictive models that can provide insights to the Human Resources (HR) department of a large consulting firm. In this project, you will create two deliverables: a one-page summary and a code notebook. The summary is aimed at external stakeholders and provides a concise overview of the project, including its objectives, methodology, and key findings. The code notebook contains the complete implementation of the project, focusing on either a regression or a machine learning model to predict employee attrition.
+
+The deliverables include model evaluation, interpretation (if applicable), relevant data visualizations, ethical considerations, and a list of resources used for troubleshooting and finding solutions. The evaluation will assess the performance of the chosen model, while interpretation will provide insights into the practical implications of the predictions.
+
+Throughout the project, it is crucial to address ethical considerations and potential biases in the data or model. Demonstrating the ability to mitigate biases and limitations will be essential.
+
+By presenting these artifacts, i will demonstrate my skills in data analysis, model development, communication, and problem-solving. This project showcases your ability to deliver meaningful insights to stakeholders and make data-driven decisions. In this analysis i used the PACE strategy for this project in my analysis process.
