@@ -1,7 +1,16 @@
-This is the Google capstone project in Google advanced data analytics. it contains a csv dataset to be used in building predictive models that can provide insights to the Human Resources (HR) department of a large consulting firm. In this project, you will create two deliverables: a one-page summary and a code notebook. The summary is aimed at external stakeholders and provides a concise overview of the project, including its objectives, methodology, and key findings. The code notebook contains the complete implementation of the project, focusing on either a regression or a machine learning model to predict employee attrition.
+# Predicting Employee Attrition: A Data Analytics Approach
 
-The deliverables include model evaluation, interpretation (if applicable), relevant data visualizations, ethical considerations, and a list of resources used for troubleshooting and finding solutions. The evaluation will assess the performance of the chosen model, while interpretation will provide insights into the practical implications of the predictions.
+Objective:
+The objective of this capstone was to use data analytics to develop accurate models for predicting employee attrition in a consulting firm. By analyzing a comprehensive dataset, our aim was to provide valuable insights to the HR department and optimize retention strategies.
 
-Throughout the project, it is crucial to address ethical considerations and potential biases in the data or model. Demonstrating the ability to mitigate biases and limitations will be essential.
+Methodology:
+We followed a systematic data analytics approach. We conducted exploratory data analysis to understand the dataset, cleaned and preprocessed the data, and used feature engineering techniques to extract meaningful insights. We then selected regression or machine learning models, evaluated their performance using metrics like accuracy and precision, and optimized them to avoid overfitting.
 
-By presenting these artifacts, i will demonstrate my skills in data analysis, model development, communication, and problem-solving. This project showcases your ability to deliver meaningful insights to stakeholders and make data-driven decisions. In this analysis i used the PACE strategy for this project in my analysis process.
+Key Findings:
+Our analysis provided valuable insights for HR strategy. The predictive models demonstrated high accuracy in forecasting attrition. Factors like job satisfaction, work-life balance, compensation, and performance ratings were identified as key contributors to attrition. Addressing these factors can improve employee retention.
+
+Deliverables:
+We produced a one-page summary highlighting the project's objectives, methodology, and key findings. We also developed a comprehensive code notebook containing the implementation of the project, including data cleaning, preprocessing, feature engineering, model selection, and evaluation.
+
+Conclusion:
+This capstone project successfully predicted employee attrition in a consulting firm using data analytics. The findings empower the HR department to make informed decisions and implement effective retention strategies. The one-page summary and code notebook serve as valuable references for future analysis. The models developed have the potential to enhance the organization's ability to manage attrition and optimize employee retention efforts.
